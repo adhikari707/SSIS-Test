@@ -11,20 +11,20 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="2"
-  DTS:VersionGUID="{BC28FE0A-8B05-4C77-A68C-475249357A40}">
+  DTS:VersionBuild="3"
+  DTS:VersionGUID="{C9120D40-9FE8-47B7-A7E7-4B266D8CC9E5}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
   <DTS:Executables>
     <DTS:Executable
-      DTS:refId="Package\SSIS TEST"
+      DTS:refId="Package\SSIS TESTING"
       DTS:CreationName="Microsoft.ExpressionTask"
       DTS:Description="Expression Task"
       DTS:DTSID="{FA56D161-B040-4F67-A776-854DED7A3827}"
       DTS:ExecutableType="Microsoft.ExpressionTask"
       DTS:LocaleID="-1"
-      DTS:ObjectName="SSIS TEST"
+      DTS:ObjectName="SSIS TESTING"
       DTS:TaskContact="Expression Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
       DTS:ThreadHint="0">
       <DTS:Variables />
@@ -47,9 +47,9 @@
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
         <NodeLayout
-          Size="129,42"
-          Id="Package\SSIS TEST"
-          TopLeft="511,75" />
+          Size="147,42"
+          Id="Package\SSIS TESTING"
+          TopLeft="479,87" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
